@@ -1,11 +1,9 @@
 # TDoC - IMPERIUM
 
-This is the official repository for Imperium submissions.
-
 ## About the project
 
 Imperium is an indigenous Version Control System(like git) written in C++, absolutely from scratch.
-It is mostly a logical approach to filesystem manipulation to emulate the basic functionalities of git.
+It is mostly a logical approach to filesystem manipulation to emulate the basic functionalities of git. This is a project I made during [Ten Days of Code](https://10-days-of-code.netlify.app/), organised by The GNU/Linux User's Group, NIT Durgapur(@lugnitdgp). You can check their Repo [here.](https://github.com/lugnitdgp/TDoC-Imperium)
 
 ## How to Contribute
 
